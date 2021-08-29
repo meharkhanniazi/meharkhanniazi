@@ -3,13 +3,13 @@
 
 - 🔭 I’m currently working on [Potato Disease Classification Project](https://github.com/meharkhanniazi/Potato-Disease-Classification-Project.git)
 
-- 🌱 I’m currently learning **Deep Learning, Machine Learning, Data Science etc.**
+- 🌱 I’m currently learning **Deep Learning, Machine Learning, Data Science, AWS Sagemaker,Azure ML,Github etc.**
 
 - 👨‍💻 All of my projects are available at [https://github.com/meharkhanniazi](https://github.com/meharkhanniazi)
 
 - 📝 I regularly write articles on [https://techshoor.com](https://techshoor.com)
 
-- 📫 How to reach me **meharkhanniazi@gmail.com**
+- 📫 How to reach me **meharkhanniazi@techshoor.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/meharkhanniazi/](https://www.linkedin.com/in/meharkhanniazi/)
 
