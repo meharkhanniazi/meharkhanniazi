@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehar Khan Niazi</h1>
-<h3 align="center">A passionate Data Science student from Pakistan</h3>
+<h3 align="center">A passionate Future Data Scientist from Pakistan</h3>
 
 - 🔭 I’m currently working on [Potato Disease Classification Project](https://github.com/meharkhanniazi/Potato-Disease-Classification-Project.git) & [Yolo Object Detection Model](https://github.com/meharkhanniazi/Yolo-Object-Detection-Model)
 
