@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehar Khan Niazi</h1>
-<h3 align="center">A passionate Data Scientist from Pakistan</h3>
+<h3 align="center">A passionate Junior Data Scientist from Pakistan</h3>
 
 - 🌱 I’m currently learning **Deep Learning, Machine Learning, Data Science, AWS Sagemaker,Azure ML,Github etc.**
 
@@ -11,7 +11,6 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/meharkhanniazi/](https://www.linkedin.com/in/meharkhanniazi/)
 
-- ⚡ Fun fact **I think I'm funny but keep myself within limitations.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
