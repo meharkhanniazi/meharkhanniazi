@@ -18,6 +18,6 @@
 <a href="https://kaggle.com/meharkhanniazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="meharkhanniazi" height="30" width="40" /></a>
 <a href="https://fb.com/meharkhanniazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="meharkhanniazi2020" height="30" width="40" /></a>
 <a href="https://medium.com/@meharkhanniazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@meharkhanniazi" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/techshoor" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techshoor" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@meharkhanniazi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="meharkhanniazi" height="30" width="40" /></a>
 </p>
 
