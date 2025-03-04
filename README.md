@@ -3,8 +3,6 @@
 
 - 🌱 I’m currently learning **Deep Learning, Generative AI, Agentic AI etc.**
 
-- 📝 I regularly write articles on [https://techshoor.com](https://techshoor.com)
-
 - 📫 How to reach me **meharkhanniazi@outlook.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/meharkhanniazi/](https://www.linkedin.com/in/meharkhanniazi/)
