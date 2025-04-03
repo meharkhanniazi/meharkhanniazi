@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mehar Khan Niazi</h1>
-<h3 align="center">A Software Engineer - AI from Pakistan</h3>
+<h3 align="center">A Software Engineer - AI</h3>
 
 - 🌱 I’m currently learning **Deep Learning, Generative AI, Agentic AI etc.**
 
