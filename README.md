@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mehar Khan Niazi</h1>
 <h3 align="center">A Software Engineer - AI</h3>
 
-- 🌱 I’m currently learning **Deep Learning, Generative AI, Agentic AI etc.**
+- 🌱 I’m currently learning **Deep Learning, Computer Vision, Generative AI, Agentic AI etc.**
 
 - 📫 How to reach me **meharkhanniazi@outlook.com**
 
